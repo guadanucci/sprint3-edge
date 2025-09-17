@@ -7,7 +7,7 @@
 - Enzo Quarelo RM:561503
 
 ## Descrição
-O projeto **Passa a Bola** aplica a Internet das Coisas (IoT) no esporte.  
+O projeto Passa a Bola APP aplica a Internet das Coisas (IoT) no esporte.  
 Sensores instalados em **bolas e coletes** coletam dados como velocidade, impacto e sinais vitais, enviando-os em tempo real para uma plataforma IoT.  
 
 Essas informações ajudam técnicos e atletas a melhorarem o desempenho, prevenirem lesões e acompanharem o jogo com métricas precisas.  
